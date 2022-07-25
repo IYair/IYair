@@ -1,57 +1,17 @@
-<h2 align="left">Hi 👋! My name is Yair and I'm a software engineer , from Mexico 🇲🇽</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=7000&color=DCDCDC&height=62&lines=I'm+Yair+Chan+%F0%9F%A4%9F)](https://git.io/typing-svg)
+<br/>
+I am a student majoring in web technologies and software development, passionate about technology and learning different sectors of software development, dedicated, creative, with a sense of dedicated, creative, with a sense of problem solving.
 
-###
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/IYair?color=2396ED&label=Followers" alt="louis3797" />  
+ <img src="https://img.shields.io/github/stars/IYair?style=flat&color=2396ED" />  
+</p>
 
-<br clear="both">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,docker,jest,laravel,figma,git,java,mysql,nodejs,php,python,vscode,sass,tailwind&perline=5)](https://skillicons.dev)
 
-<img align="left" height="150" src="https://scontent.fcjs3-1.fna.fbcdn.net/v/t39.30808-6/271588360_4948090965248404_4577610903721737827_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGAUsaA6gzCjj5ilvGwTypIbSBlEv2Pu3NtIGUS_Y-7c6-t0MtPXkg4UmoLEjQCCDSFc7QOnApUY--QmdMkyYex&_nc_ohc=Jb6865odsYwAX9xcuTS&_nc_ht=scontent.fcjs3-1.fna&oh=00_AT-UFTwONuUnNuL871wB32qNraqExmEtBhOjGqeS4hWB_w&oe=62E46B07"  />
 
-###
+  ### Github Stats ⚡
 
-<p align="left">I am a student majoring in web technologies and software development, passionate about technology and learning different sectors of software development, dedicated, creative, with a sense of problem solving.</p>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IYair&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&username=I" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&username=I" height="150" alt="languages graph"  />
-</div>
-
-###
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IYair&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

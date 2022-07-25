@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/I/I/blob/output/snake.svg" alt="Snake animation" />
-
-###

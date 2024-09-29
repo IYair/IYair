@@ -12,6 +12,6 @@ I am a student majoring in web technologies and software development, passionate
 
   ### Github Stats ⚡
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IYair&show_icons=true&theme=radical_include_all_commits)](https://github.com/anuraghazra/github-readme-stats)</a>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IYair&show_icons=true&theme=radical&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)</a>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IYair&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
